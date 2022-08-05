@@ -1,0 +1,19 @@
+{
+  "name": "express-point-de-controlle",
+  "version": "1.0.0",
+  "description": "point controle express",
+  "main": "server.js",
+  "scripts": {
+    "salem": "nodemon server.js"
+  },
+  "author": "salem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+   
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+
+  }
+}
